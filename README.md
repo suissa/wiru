@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/filipeborelli/wiru">
-    <img width="400px" src="https://i.ibb.co/74XRpnX/IMG.png" alt="WiRU">
+    <img width="400px" src="https://i.ibb.co/fXPYByc/IMG.png" alt="WiRU">
   </a>
 </p>
 
