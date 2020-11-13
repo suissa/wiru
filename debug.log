@@ -1,0 +1,3 @@
+[1113/111431.092:ERROR:file_io_win.cc(162)] CreateFile C:\Users\FILIPE~1.BOR\AppData\Local\Temp\puppeteer_dev_chrome_profile-WaOhM0\Crashpad\settings.dat: O sistema não pode encontrar o caminho especificado. (0x3)
+[1113/111431.093:ERROR:file_io_win.cc(171)] CreateFile C:\Users\FILIPE~1.BOR\AppData\Local\Temp\puppeteer_dev_chrome_profile-WaOhM0\Crashpad\reports\231d33bc-f949-4f9e-abe8-539b16c109da.dmp: O sistema não pode encontrar o caminho especificado. (0x3)
+[1113/111431.093:ERROR:crash_report_exception_handler.cc(99)] PrepareNewCrashReport failed
