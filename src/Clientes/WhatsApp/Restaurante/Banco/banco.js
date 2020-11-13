@@ -1,3 +1,3 @@
-var banco = {};
+let banco = {};
 
 exports.db = banco;
